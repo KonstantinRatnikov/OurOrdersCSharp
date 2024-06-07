@@ -1,0 +1,9 @@
+C:\Users\konst\Downloads\OurOrdersCSharp\OurOrdersCSharp\OurOrders\bin\Debug\OurOrders.exe.config
+C:\Users\konst\Downloads\OurOrdersCSharp\OurOrdersCSharp\OurOrders\bin\Debug\OurOrders.exe
+C:\Users\konst\Downloads\OurOrdersCSharp\OurOrdersCSharp\OurOrders\bin\Debug\OurOrders.pdb
+C:\Users\konst\Downloads\OurOrdersCSharp\OurOrdersCSharp\OurOrders\bin\Debug\OurOrdersRunner.dll
+C:\Users\konst\Downloads\OurOrdersCSharp\OurOrdersCSharp\OurOrders\obj\x86\Debug\OurOrders.csproj.AssemblyReference.cache
+C:\Users\konst\Downloads\OurOrdersCSharp\OurOrdersCSharp\OurOrders\obj\x86\Debug\OurOrders.csproj.CoreCompileInputs.cache
+C:\Users\konst\Downloads\OurOrdersCSharp\OurOrdersCSharp\OurOrders\obj\x86\Debug\OurOrders.csproj.Up2Date
+C:\Users\konst\Downloads\OurOrdersCSharp\OurOrdersCSharp\OurOrders\obj\x86\Debug\OurOrders.exe
+C:\Users\konst\Downloads\OurOrdersCSharp\OurOrdersCSharp\OurOrders\obj\x86\Debug\OurOrders.pdb
